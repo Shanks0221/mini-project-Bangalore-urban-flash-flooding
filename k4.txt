@@ -1,1 +1,2 @@
 stash 01
+after stashing 
